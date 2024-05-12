@@ -1,5 +1,5 @@
 # CUESOFT-TALENT-ACADEMY-TERMS-OF-SERVICE-
-CUESOFT TALENT ACADEMY TERMS OF SERVICE 
+
 Welcome to Cuesoft Talent Academy! We're excited to have you join us in our mission to demystify and redefine software development.
 Before you begin your journey with us, please review the following terms carefully:
 
